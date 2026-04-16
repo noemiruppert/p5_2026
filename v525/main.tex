@@ -1,33 +1,56 @@
-\documentclass[ngerman]{scrartcl}
-\usepackage{amsmath, tcolorbox}
-\usepackage{tikz}
-\usetikzlibrary{decorations.pathreplacing, positioning, arrows.meta}
-\usetikzlibrary{shapes.geometric}
-\usetikzlibrary{patterns}
-%\tikzset{
-%  step/.style={
-%    rectangle, draw=black, rounded corners, fill=blue!10,
-%    text centered, minimum width=4cm, minimum height=1cm
- % },
- % arrow/.style={
-  %  ->, thick
-  %}
-%}
-% Mögliche Sprachen: ngerman, USenglish, UKenglish
+\documentclass[%
+paper=a4,       % Papiergröße
+fontsize=11pt,  % Schriftgröße
+ngerman         % Option für deutsche Sprache
+]{scrreprt}
+\usepackage{scrhack}
+\usepackage{comment} %makes commenting out easier
+\input{optics.tex}
+\addbibresource{refs.bib}
 
-% \usepackage[utf8]{inputenc} % Ab TeX Live 2018 nicht mehr notwendig.
-\usepackage[T1]{fontenc}
-\input{optics}
-\RequirePackage[backend=biber, style=numeric]{biblatex} %Literaturzitate
-%\addbibresource{file1.bib}
-\KOMAoptions{fontsize=12pt,paper=a4}
-\KOMAoptions{DIV=13}
-\title{Versuch 525: Nukleare Elektronik und Lebensdauermessung}
-\author{Arieh Thill \& Noemi Ruppert}
-\date{Sommersemester 2026}
+% Header & footer via fancyhdr
+\pagestyle{myheadings}
+%\markright{\bfseries V402: Quantelung von Energie \hfill}
+\KOMAoptions{headsepline=.4pt:19\textwidth}  % 0.4pt thick line, full width
+\renewcommand*\chapterheadstartvskip{\vspace*{-1cm}}
+
 \begin{document}
 
-\maketitle
-\clearpage
+\begin{titlepage}
+  \centering
+  \vspace*{2cm}
+  
+  {\Large PRAKTIKUM 5}\\[0.5cm]
+  {\large KERN- UND TEILCHENPHYSIK }\\[1cm]
+  
+  {\LARGE\bfseries Versuch 525: Nukleare Elektronik und Lebensdauermessung}\\[1cm]
+  
+  Gruppe A112\\[1cm]
+  
+  \begin{tabular}{lll}
+    ARIEH THILL & NOEMI RUPPERT  \\
+  \end{tabular}\\[2cm]
+  
+  Versuchsdurchführung: 01.~/ 02.~Juni 2026
+  
+  \vfill
+\end{titlepage}
+
 \tableofcontents
 \clearpage
+\clearpage
+\setcounter{page}{1}
+ \include{Einleitung}
+ %\include{Ausbau und Durchführung}
+ \include{Fazit}
+
+
+ %\include{formeln}
+
+\appendix
+\printbibliography{}
+%\listoffigures\addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+%\listoftables\addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+%\include{Anhang}
+\end{document}
+% rest of your document...

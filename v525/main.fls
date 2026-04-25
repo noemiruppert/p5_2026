@@ -1645,6 +1645,9 @@ INPUT ./Einleitung.tex
 INPUT Einleitung.tex
 INPUT ./Einleitung.tex
 INPUT Einleitung.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT ./Fazit.tex
 INPUT ./Fazit.tex
 INPUT ./Fazit.tex
@@ -1667,8 +1670,10 @@ INPUT ./main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb

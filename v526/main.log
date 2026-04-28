@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.9.29)  16 APR 2026 09:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2025.9.29)  28 APR 2026 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1265,7 +1265,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
- (./main.aux (./Einleitung.aux) (./Fazit.aux))
+ (./main.aux (./Einleitung.aux) (./Aufbau.aux) (./Justage.aux) (./Stoßwirkungsquerschnitt.aux) (./Energiekalibrierung.aux) (./Streuspektren.aux) (./Fazit.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 17.
@@ -1468,15 +1468,59 @@ l.43  \include{Einleitung}
 
 
 ]
+\openout2 = `Aufbau.aux'.
+
+ (./Aufbau.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.45  \include{Aufbau}
+                       [2
+
+
+
+]
+\openout2 = `Justage.aux'.
+
+ (./Justage.tex) [3
+
+
+
+]
+\openout2 = `Stoßwirkungsquerschnitt.aux'.
+
+ (./Stoßwirkungsquerschnitt.tex) [4
+
+
+
+]
+\openout2 = `Energiekalibrierung.aux'.
+
+ (./Energiekalibrierung.tex) [5
+
+
+
+]
+\openout2 = `Streuspektren.aux'.
+
+ (./Streuspektren.tex) [6
+
+
+
+]
 \openout2 = `Fazit.aux'.
 
- (./Fazit.tex)
+ (./Fazit.tex) [7
 
-LaTeX Warning: Empty bibliography on input line 50.
+
+
+]
+
+LaTeX Warning: Empty bibliography on input line 56.
 
 (./main.aux
 Package cleveref Info: loaded `ngerman' language definitions on input line 22.
- (./Einleitung.aux) (./Fazit.aux))
+ (./Einleitung.aux) (./Aufbau.aux) (./Justage.aux) (./Stoßwirkungsquerschnitt.aux) (./Energiekalibrierung.aux) (./Streuspektren.aux) (./Fazit.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1484,18 +1528,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48103 strings out of 477884
- 984692 string characters out of 5835937
- 1945616 words of memory out of 5000000
- 67561 multiletter control sequences out of 15000+600000
- 537879 words of font info for 85 fonts, out of 8000000 for 9000
+ 48291 strings out of 477884
+ 989957 string characters out of 5835937
+ 1961397 words of memory out of 5000000
+ 67693 multiletter control sequences out of 15000+600000
+ 541940 words of font info for 93 fonts, out of 8000000 for 9000
  83 hyphenation exceptions out of 8191
  108i,19n,106p,10654b,2459s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb>
-Output written on main.pdf (3 pages, 99427 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb>
+Output written on main.pdf (9 pages, 147630 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 159 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 

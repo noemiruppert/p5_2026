@@ -1,2 +1,7 @@
 \babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {0.1}Einleitung}{1}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Aufbau}{2}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Der Slow-Koinzidenzkreis}{3}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Der Fast-Koinzidenzkreis}{4}{section.0.4}%
+\contentsline {section}{\numberline {0.5}Fazit}{5}{section.0.5}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

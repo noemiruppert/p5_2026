@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber main"] 1777112032 "main.bcf" "main.bbl" "main" 1777113268 0
+["biber main"] 1777112032 "main.bcf" "main.bbl" "main" 1777443515 0
   "./refs.bib" 1776333418 1011 1368f7cc254df91a3f16d97a93b1bffe ""
-  "main.bcf" 1777113268 106379 302f6d29b641bdb9d688b758e958d2fc "pdflatex"
+  "main.bcf" 1777443515 106379 302f6d29b641bdb9d688b758e958d2fc "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1777113257 "/home/s6norupp/physik/p5_2026/v521/main.tex" "main.pdf" "main" 1777113268 0
+["pdflatex"] 1777443507 "/home/s6norupp/physik/p5_2026/v521/main.tex" "main.pdf" "main" 1777443515 0
   "/etc/texmf/web2c/texmf.cnf" 1759155569 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/s6norupp/physik/p5_2026/v521/main.tex" 1776333418 1326 8194867041f709464d733b0b7c0f79c4 ""
+  "/home/s6norupp/physik/p5_2026/v521/main.tex" 1777443487 1344 4f7822e35e8b75c9d5777974b39058a9 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm" 1136768653 3584 ad49a18d8515beef6d92d4d3f197d0fd ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1136768653 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
@@ -280,20 +280,23 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1759156066 4517229 3ba9d9e182aa6f4855dd91edc160860c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1759156086 7025037 b4a94411188b9f0ff29fe4b5d72e9d10 ""
-  "Einleitung.aux" 1777113268 4165 a4b4cd1619f023720f0d7ab21f5c4b7e "pdflatex"
-  "Einleitung.tex" 1777113223 1096 27eebc974d752fa0de50bff5ea7674e1 ""
-  "Fazit.aux" 1777113268 4049 a8eff1497897ef288f8003ff3a295a26 "pdflatex"
-  "Fazit.tex" 1776333418 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "main.aux" 1777113268 1244 11bd6d5ab179291db77e1fba66b440f5 "pdflatex"
+  "Einleitung.aux" 1777443515 4165 a4b4cd1619f023720f0d7ab21f5c4b7e "pdflatex"
+  "Einleitung.tex" 1777408954 1096 27eebc974d752fa0de50bff5ea7674e1 ""
+  "Fazit.aux" 1777443515 4155 ffd7b86359c9bfcec9ffa4c29deea8fc "pdflatex"
+  "Fazit.tex" 1777443476 15 031b96a7991fe532c910ece10dab6005 ""
+  "aufbau.aux" 1777443515 4157 e73c58dbf73fb3c0c42207090500ae4a "pdflatex"
+  "aufbau.tex" 1777443472 16 98fa8d385b958d6f342be2ff1c891f67 ""
+  "main.aux" 1777443515 1630 54dc60bc5c7fe797f524ab0b4e731fa8 "pdflatex"
   "main.bbl" 1777112033 466 ee04f40f768daeed26442158e95aba61 "biber main"
   "main.out" 1776333418 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1777113268 2329 f8b967dbeaa4c7e661aa5fbdc91ddb35 "pdflatex"
-  "main.tex" 1776333418 1326 8194867041f709464d733b0b7c0f79c4 ""
-  "main.toc" 1777113268 165 9f11eef25273e216b6564431380d3b88 "pdflatex"
+  "main.run.xml" 1777443515 2329 f8b967dbeaa4c7e661aa5fbdc91ddb35 "pdflatex"
+  "main.tex" 1777443487 1344 4f7822e35e8b75c9d5777974b39058a9 ""
+  "main.toc" 1777443515 296 d5a5d57c9ed8d8bbe8b5031b52e7315c "pdflatex"
   "optics.tex" 1776333418 6788 8b4115b8922a22631ca2334e1a893556 ""
   (generated)
   "Einleitung.aux"
   "Fazit.aux"
+  "aufbau.aux"
   "main.aux"
   "main.bcf"
   "main.log"

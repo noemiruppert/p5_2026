@@ -1458,6 +1458,9 @@ INPUT main.aux
 INPUT ./Einleitung.aux
 INPUT Einleitung.aux
 INPUT Einleitung.aux
+INPUT ./aufbau.aux
+INPUT aufbau.aux
+INPUT aufbau.aux
 INPUT ./Fazit.aux
 INPUT Fazit.aux
 INPUT Fazit.aux
@@ -1691,6 +1694,16 @@ INPUT Einleitung.tex
 INPUT ./Einleitung.tex
 INPUT Einleitung.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecsx1440.tfm
+INPUT ./aufbau.tex
+INPUT ./aufbau.tex
+INPUT ./aufbau.tex
+OUTPUT aufbau.aux
+INPUT ./aufbau.tex
+INPUT ./aufbau.tex
+INPUT ./aufbau.tex
+INPUT aufbau.tex
+INPUT ./aufbau.tex
+INPUT aufbau.tex
 INPUT ./Fazit.tex
 INPUT ./Fazit.tex
 INPUT ./Fazit.tex
@@ -1705,6 +1718,9 @@ INPUT main.aux
 INPUT ./Einleitung.aux
 INPUT Einleitung.aux
 INPUT Einleitung.aux
+INPUT ./aufbau.aux
+INPUT aufbau.aux
+INPUT aufbau.aux
 INPUT ./Fazit.aux
 INPUT Fazit.aux
 INPUT Fazit.aux

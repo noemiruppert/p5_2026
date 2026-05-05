@@ -1,1 +1,16 @@
 \section{Energiekalibrierung des Spektrometers}
+\subsection{Theoretische Grundlagen}
+Die Energiekalibrierung eines Gammaspektrometers basiert auf der Zuordnung von Kanalnummern eines Multikanalanalysators (MCA) zu bekannten $\gamma$-Übergangsenergien. Hierfür werden Proben mit bekannten Zerfallsprofilen und spektraler Vielfalt verwendet. Der $^{152}$Eu-Kern eignet sich besonders gut für die Kalibrierung im Energiebereich zwischen etwa 100 keV und 1,4 MeV, da er eine große Anzahl von Gamma-Übergängen enthält. Zusätzlich wird der 662-keV-Übergang von $^{137}$Cs verwendet, um die Kalibrierung im mittleren Energiebereich zu stabilisieren.
+\paragraph{$\gamma$-Spektrum von $^{152}$Eu}
+Der Zerfall von $^{152}$Eu führt über mehrere angeregte Zustände des $^{152}$Sm zu einer Vielzahl charakteristischer $\gamma$-Linien.
+%tabelle mit Energien und Intensitäten der Linien einfügen
+Diese Linien dienen als Referenzpunkte für die Kalibrierung des Spektrometers.
+Aufgrund der begrenzten Energieauflösung des Detektors können sich mehrere nahe beieinander liegende Übergänge überlappen und einen einzigen Peak bilden. Diese Überlappung tritt besonders häufig bei Spannungen unter 300 keV auf, da der Linienabstand dann kleiner als die Halbwertsbreite (FWHM) des Detektors ist.
+Zur genauen Identifizierung der Linien wird eine Hintergrundmessung ohne Probe durchgeführt und anschließend vom Spektrum subtrahiert, um die Auswirkungen von Umgebungsstrahlung und elektrischem Rauschen zu eliminieren.
+\paragraph{Lineare Energiekalibrierung}
+Die Beziehung zwischen der Kanalnummer $K$ und der Energie $E$ eines $\gamma$-Übergangs wird durch eine lineare Funktion beschrieben:
+\begin{align*}    E(K) = aK + b
+\end{align*}
+Die Parameter $a$ und $b$ werden durch eine lineare Regression der bekannten Energien der $^{152}$Eu-Übergänge gegen die gemessenen Kanalnummer bestimmt. \\
+Dazu wird noch der $^{137}$Cs-Peak verwendet, um die Kalibrierung im mittleren Energiebereich zu stabilisieren und systematische Unsicherheiten zu reduzieren.
+\paragraph{Detektoreffizienz}

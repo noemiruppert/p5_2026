@@ -18,5 +18,8 @@
 \contentsline {paragraph}{\nonumberline Lineare Energiekalibrierung}{6}{paragraph*.13}%
 \contentsline {paragraph}{\nonumberline Detektoreffizienz}{6}{paragraph*.15}%
 \contentsline {section}{\numberline {0.6}Messung der Streuspektren}{7}{section.0.6}%
+\contentsline {subsection}{\numberline {0.6.1}Theoretische Grundlagen}{7}{subsection.0.6.1}%
+\contentsline {subsection}{\numberline {0.6.2}Durchführung}{7}{subsection.0.6.2}%
+\contentsline {paragraph}{\nonumberline Untergrundmessung}{7}{paragraph*.17}%
 \contentsline {section}{\numberline {0.7}Fazit}{8}{section.0.7}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

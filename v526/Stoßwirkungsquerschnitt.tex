@@ -3,16 +3,18 @@
 \paragraph{Compton Streuung}
 Die Energie der in diesem Versuch verwendeten Cäsium-137-Gammastrahlung beträgt E
 $\lambda$ = 662 keV. In diesem Energiebereich beruht die Wechselwirkung von Photonen mit Materie auf der Compton-Streuung. Dabei wird ein Photon an einem freien Elektron gestreut und gibt einen Teil seiner Energie an dieses ab. Die Energie E
-$\lambda'$ des gestreuten Photons hängt vom Streuwinkel $\lambda$ ab und folgt der Compton-Formel:
+$\lambda'$ des gestreuten Photons hängt vom Streuwinkel $\lambda$ ab und folgt der Compton-Formel (\cite{Wermes}):
 \begin{align*}
     E_{\lambda'} = \frac{E_{\lambda}}{1 + \frac{E_{\lambda}}{m_e c^2} (1 - \cos \theta)}
 \end{align*}
+\label{form:compton}
 \paragraph{Beer-Lambert Gesetz}
-Da die Bindungsenergien der Elektronen in Aluminium gegenüber der Photonenenergie vernachlässigbar sind, kann die Streuung laut Klein-Nishina-Theorie als Streuung an freien Elektronen behandelt werden.Die Compton-Streuung ist der Hauptbeitrag für die Abschwächung der Strahlung im Target, da diese zu einer kontinuierlichen Energieverteilung der transmittierten Photonen führt. Die Intensität hinter einem Absorber der Dicke x folgt näherungsweise dem Lambert-Beer-Gesetz:
+Da die Bindungsenergien der Elektronen in Aluminium gegenüber der Photonenenergie vernachlässigbar sind, kann die Streuung laut Klein-Nishina-Theorie als Streuung an freien Elektronen behandelt werden.Die Compton-Streuung ist der Hauptbeitrag für die Abschwächung der Strahlung im Target, da diese zu einer kontinuierlichen Energieverteilung der transmittierten Photonen führt. Die Intensität hinter einem Absorber der Dicke x folgt näherungsweise dem Lambert-Beer-Gesetz (\cite{}):
 \begin{align*}
     I(x) = I_0 e^{-\mu x}
 \end{align*}
-wobei $\mu$ der lineare Absorptionskoeffizient ist, der von der Energie der Photonen und den Materialeigenschaften abhängt. Der totale Stoßwirkungsquerschnitt $\sigma$ kann aus dem Absorptionskoeffizienten $\mu$ und der Dichte $\rho$ des Materials berechnet werden:
+\label{form:beer-lambert}
+wobei $\mu$ der lineare Absorptionskoeffizient ist, der von der Energie der Photonen und den Materialeigenschaften abhängt. Der totale Stoßwirkungsquerschnitt $\sigma$ kann aus dem Absorptionskoeffizienten $\mu$ und der Dichte $\rho$ des Materials berechnet werden (\cite{}):
 \begin{align*}
     \sigma = \frac{\mu}{\rho N_A / A}
 \end{align*}
@@ -21,13 +23,14 @@ Für den betrachteten Energiebereich trägt der Photoeffekt nur wenig bei und Pa
 Zur Messung des totalem Stoßwirkungsquerschnitts $\sigma$ der $\gamma$-Strahlung befindet sich der Aufbau in Konfiguration 1, damit ausschließlichder ungestreute Primärstrahl detektiert wird.\\
 Man platziert im Targethalter Al-Targets mit unterschiedlicher Dicke und misst die transmittierte Intensität über Zeitintervalle von jeweils ???min. Die Intensität des Strahlengangs wird durch die Compton-Streuung reduziert. Mit der Differenz zwischen der ursprünglichen Intensität $I_0$ und dem gemessenen Wert $I(x)$ für unterschiedliche Dicken x, kann der Absorptionskoeffizient $\mu$ bestimmt werden.\\
 \paragraph{Einfluss von Rotation}
-Die Rotation des Targets muss auch betrachtet werden, denn die effektive Dicke $x_{eff}$ des Targets hängt vom Winkel $\alpha$ der Rotation ab:
+Die Rotation des Targets muss auch betrachtet werden, denn die effektive Dicke $x_{eff}$ des Targets hängt vom Winkel $\alpha$ der Rotation ab (\cite{}):
 \begin{align*}
     x_{eff} = \frac{x}{\cos \alpha}
 \end{align*}
 Daraus folgt, dass für bestimmte Winkel die Absorption stärker ist, da die Photonen eine längere Strecke durch das Target durchdringen müssen. Die Verdrehung kann ebenfalls dazu führen, dass die Anzahl an rückgestreuten Elektronen zunimmt, was einen Einfluss auf die Detektion hat. 
 \paragraph{Totzeit}
-Der in diesem Versuch verwendete Detektor besitzt eine Totzeit $\tau$, während dessen er kein weiteres Ereignis registrieren kann. Bei großen Zählraten kann dies zu einer Unterschätzung der tatsächlichen Intensität führen. Kritisch wird es bei Messungen, die ohne Absorber durchgeführt werden, da hier die Zählrate am höchsten ist. Um die Totzeitkorrektur durchzuführen, kann die gemessene Zählrate $R_{meas}$ mit der Formel korrigiert werden:
-\begin{align*}    R_{true} = \frac{R_{meas}}{1 - R_{me as} \tau}
+Der in diesem Versuch verwendete Detektor besitzt eine Totzeit $\tau$, während dessen er kein weiteres Ereignis registrieren kann. Bei großen Zählraten kann dies zu einer Unterschätzung der tatsächlichen Intensität führen. Kritisch wird es bei Messungen, die ohne Absorber durchgeführt werden, da hier die Zählrate am höchsten ist. Um die Totzeitkorrektur durchzuführen, kann die gemessene Zählrate $R_{meas}$ mit der Formel korrigiert werden (\cite{}):
+\begin{align*}    
+    R_{true} = \frac{R_{meas}}{1 - R_{me as} \tau}
 \end{align*}
 \subsection{Auswertung}

@@ -17,9 +17,11 @@
 \contentsline {paragraph}{\nonumberline $\gamma $-Spektrum von $^{152}$Eu}{8}{paragraph*.15}%
 \contentsline {paragraph}{\nonumberline Lineare Energiekalibrierung}{8}{paragraph*.17}%
 \contentsline {paragraph}{\nonumberline Detektoreffizienz}{8}{paragraph*.19}%
-\contentsline {section}{\numberline {0.6}Messung der Streuspektren}{9}{section.0.6}%
-\contentsline {subsection}{\numberline {0.6.1}Theoretische Grundlagen}{9}{subsection.0.6.1}%
-\contentsline {subsection}{\numberline {0.6.2}Durchführung}{9}{subsection.0.6.2}%
-\contentsline {paragraph}{\nonumberline Untergrundmessung}{9}{paragraph*.21}%
-\contentsline {section}{\numberline {0.7}Fazit}{10}{section.0.7}%
+\contentsline {subsection}{\numberline {0.5.2}Durchführung}{8}{subsection.0.5.2}%
+\contentsline {subsection}{\numberline {0.5.3}Auswertung}{9}{subsection.0.5.3}%
+\contentsline {section}{\numberline {0.6}Messung der Streuspektren}{11}{section.0.6}%
+\contentsline {subsection}{\numberline {0.6.1}Theoretische Grundlagen}{11}{subsection.0.6.1}%
+\contentsline {subsection}{\numberline {0.6.2}Durchführung}{11}{subsection.0.6.2}%
+\contentsline {paragraph}{\nonumberline Untergrundmessung}{11}{paragraph*.22}%
+\contentsline {section}{\numberline {0.7}Fazit}{12}{section.0.7}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

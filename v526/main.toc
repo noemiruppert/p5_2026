@@ -4,22 +4,22 @@
 \contentsline {section}{\numberline {0.3}Justage des Versuchs und Durchführung}{3}{section.0.3}%
 \contentsline {subsection}{\numberline {0.3.1}Durchführung}{3}{subsection.0.3.1}%
 \contentsline {subsection}{\numberline {0.3.2}Beobachtungen}{3}{subsection.0.3.2}%
-\contentsline {section}{\numberline {0.4}Messung des totalen Stoßwirkungsquerschnitts}{4}{section.0.4}%
-\contentsline {subsection}{\numberline {0.4.1}Theoretische Grundlagen}{4}{subsection.0.4.1}%
-\contentsline {paragraph}{\nonumberline Compton Streuung}{4}{paragraph*.4}%
-\contentsline {paragraph}{\nonumberline Beer-Lambert Gesetz}{4}{paragraph*.6}%
-\contentsline {subsection}{\numberline {0.4.2}Durchführung}{4}{subsection.0.4.2}%
-\contentsline {paragraph}{\nonumberline Einfluss von Rotation}{4}{paragraph*.8}%
-\contentsline {paragraph}{\nonumberline Totzeit}{5}{paragraph*.10}%
-\contentsline {subsection}{\numberline {0.4.3}Auswertung}{5}{subsection.0.4.3}%
-\contentsline {section}{\numberline {0.5}Energiekalibrierung des Spektrometers}{6}{section.0.5}%
-\contentsline {subsection}{\numberline {0.5.1}Theoretische Grundlagen}{6}{subsection.0.5.1}%
-\contentsline {paragraph}{\nonumberline $\gamma $-Spektrum von $^{152}$Eu}{6}{paragraph*.12}%
-\contentsline {paragraph}{\nonumberline Lineare Energiekalibrierung}{6}{paragraph*.14}%
-\contentsline {paragraph}{\nonumberline Detektoreffizienz}{6}{paragraph*.16}%
-\contentsline {section}{\numberline {0.6}Messung der Streuspektren}{7}{section.0.6}%
-\contentsline {subsection}{\numberline {0.6.1}Theoretische Grundlagen}{7}{subsection.0.6.1}%
-\contentsline {subsection}{\numberline {0.6.2}Durchführung}{7}{subsection.0.6.2}%
-\contentsline {paragraph}{\nonumberline Untergrundmessung}{7}{paragraph*.18}%
-\contentsline {section}{\numberline {0.7}Fazit}{8}{section.0.7}%
+\contentsline {section}{\numberline {0.4}Messung des totalen Stoßwirkungsquerschnitts}{6}{section.0.4}%
+\contentsline {subsection}{\numberline {0.4.1}Theoretische Grundlagen}{6}{subsection.0.4.1}%
+\contentsline {paragraph}{\nonumberline Compton Streuung}{6}{paragraph*.7}%
+\contentsline {paragraph}{\nonumberline Beer-Lambert Gesetz}{6}{paragraph*.9}%
+\contentsline {subsection}{\numberline {0.4.2}Durchführung}{6}{subsection.0.4.2}%
+\contentsline {paragraph}{\nonumberline Einfluss von Rotation}{6}{paragraph*.11}%
+\contentsline {paragraph}{\nonumberline Totzeit}{7}{paragraph*.13}%
+\contentsline {subsection}{\numberline {0.4.3}Auswertung}{7}{subsection.0.4.3}%
+\contentsline {section}{\numberline {0.5}Energiekalibrierung des Spektrometers}{8}{section.0.5}%
+\contentsline {subsection}{\numberline {0.5.1}Theoretische Grundlagen}{8}{subsection.0.5.1}%
+\contentsline {paragraph}{\nonumberline $\gamma $-Spektrum von $^{152}$Eu}{8}{paragraph*.15}%
+\contentsline {paragraph}{\nonumberline Lineare Energiekalibrierung}{8}{paragraph*.17}%
+\contentsline {paragraph}{\nonumberline Detektoreffizienz}{8}{paragraph*.19}%
+\contentsline {section}{\numberline {0.6}Messung der Streuspektren}{9}{section.0.6}%
+\contentsline {subsection}{\numberline {0.6.1}Theoretische Grundlagen}{9}{subsection.0.6.1}%
+\contentsline {subsection}{\numberline {0.6.2}Durchführung}{9}{subsection.0.6.2}%
+\contentsline {paragraph}{\nonumberline Untergrundmessung}{9}{paragraph*.21}%
+\contentsline {section}{\numberline {0.7}Fazit}{10}{section.0.7}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

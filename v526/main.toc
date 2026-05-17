@@ -24,4 +24,5 @@
 \contentsline {subsection}{\numberline {0.6.2}Durchführung}{11}{subsection.0.6.2}%
 \contentsline {paragraph}{\nonumberline Untergrundmessung}{11}{paragraph*.22}%
 \contentsline {section}{\numberline {0.7}Fazit}{12}{section.0.7}%
+\contentsline {section}{\numberline {0.8}KI-Nutzung}{13}{section.0.8}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

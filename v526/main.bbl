@@ -16,5 +16,17 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Wermes}{book}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Teilchendetektoren, Wermes}
+      \warn{\item Entry 'Wermes' (refs.bib): Invalid format '????-??-??' of date field 'date' - ignoring}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
